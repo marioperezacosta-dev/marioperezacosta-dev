@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_AQUÍ]&label=Perfil%20Visitado&color=2ecc71&style=flat-square" alt="Contador de visitas" />
-</p>
-
----
-
 ## 🚀 Sobre Mí
 
 ¡Hola! Soy **Mario Pérez Acosta**. Actualmente curso 1º de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. No me conformo con aprobar; mi objetivo es dominar la arquitectura de software, escribir código limpio (Clean Code) y destacar en el ecosistema técnico antes de terminar mis estudios.
