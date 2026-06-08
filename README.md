@@ -25,9 +25,9 @@
 ## 📊 Estadísticas & Actividad en Código
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marioperezacosta-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
   
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUÍ&theme=tokyonight" alt="Racha de Commits" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=marioperezacosta-dev&theme=tokyonight" alt="Racha de Commits" />
 </p>
 
 ### 🛠️ Tecnologías que más utilizo en 1º DAM
