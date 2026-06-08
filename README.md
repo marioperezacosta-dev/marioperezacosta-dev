@@ -22,12 +22,11 @@
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 📊 Estadísticas & Actividad en Código
 
 <p align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
-  <!-- Tarjeta de Racha de Commits -->
+  
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUÍ&theme=tokyonight" alt="Racha de Commits" />
 </p>
 
@@ -40,15 +39,6 @@
   <img src="https://img.shields.io/badge/SQL_&_Bases_Datos-Avanzado-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
   <img src="https://img.shields.io/badge/Git_&_GitHub-Control_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-## 📈 Mi Actividad en Código
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[TU_USUARIO_AQUÍ]&theme=tokyonight" alt="Detalle de actividad" width="100%" />
-</p>
-
 ---
 
 ## 🤝 Conectemos
