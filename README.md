@@ -22,21 +22,36 @@
 
 ---
 
-## 📊 Estadísticas & Actividad en Código
+¡Añadidos! He rediseñado por completo la sección de tecnologías para incluir HTML5, CSS3, JavaScript y Thymeleaf.
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marioperez-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
-  
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=marioperez-dev&theme=tokyonight" alt="Racha de Commits" />
-</p>
-### 🛠️ Tecnologías que más utilizo en 1º DAM
-*Para asegurar el tiro mientras indexan mis repositorios, este es mi Core Stack actual:*
+Además, para que tu perfil se vea mucho más limpio y profesional (como el de un desarrollador backend/fullstack que apunta alto), he agrupado las tecnologías por categorías: Frontend / Motor de Plantillas, Backend y Bases de Datos & Herramientas. Esto le estructura el mapa mental al reclutador de un solo vistazo.
 
+Abre tu archivo README.md, busca la zona de las tecnologías (### 🛠️ Tecnologías que más utilizo en 1º DAM) y reemplaza todo ese bloque de insignias por este nuevo código:
+
+Markdown
+### 🛠️ Tecnologías & Stack Técnico (1º DAM)
+*Mi ecosistema de desarrollo estructurado por capas:*
+
+#### 🎨 Frontend & Motores de Vista
 <p align="left">
-  <img src="https://img.shields.io/badge/Java_Core-100%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/SQL_&_Bases_Datos-Avanzado-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
-  <img src="https://img.shields.io/badge/Git_&_GitHub-Control_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
+</p>
+
+#### ⚙️ Backend & Lógica de Negocio
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_Core-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+</p>
+
+#### 🗄️ Bases de Datos & Control de Versiones
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_&_Databases-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
 </p>
 ---
 
