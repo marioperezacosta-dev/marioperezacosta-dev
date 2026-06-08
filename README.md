@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=250&section=header&text=Mario%20Pérez%20Acosta&fontSize=45&animation=twinkling&theme=dark" alt="Header Animado" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
+  <h1 align="center">🚀 Mario Pérez Acosta</h1>
+  <p align="center"><b>Software Developer Student @ 1º DAM</b></p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
 </p>
 
 <p align="center">
