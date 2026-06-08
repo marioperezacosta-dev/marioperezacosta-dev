@@ -21,14 +21,6 @@
 - 🎯 **Filosofía de Código:** *"Cualquier tonto puede escribir código que un ordenador entiende. Los buenos programadores escriben código que los humanos pueden entender."* (Martin Fowler).
 
 ---
-
-¡Añadidos! He rediseñado por completo la sección de tecnologías para incluir HTML5, CSS3, JavaScript y Thymeleaf.
-
-Además, para que tu perfil se vea mucho más limpio y profesional (como el de un desarrollador backend/fullstack que apunta alto), he agrupado las tecnologías por categorías: Frontend / Motor de Plantillas, Backend y Bases de Datos & Herramientas. Esto le estructura el mapa mental al reclutador de un solo vistazo.
-
-Abre tu archivo README.md, busca la zona de las tecnologías (### 🛠️ Tecnologías que más utilizo en 1º DAM) y reemplaza todo ese bloque de insignias por este nuevo código:
-
-Markdown
 ### 🛠️ Tecnologías & Stack Técnico (1º DAM)
 *Mi ecosistema de desarrollo estructurado por capas:*
 
