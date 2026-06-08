@@ -68,8 +68,8 @@
 ---
 
 ## 🤝 Conectemos
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) <!-- Cambia esto por tu enlace real -->
-- **Email:** tu.email@ejemplo.com
+- **LinkedIn:** https://www.linkedin.com/in/mario-perez-acosta-0271153a0/ <!-- Cambia esto por tu enlace real -->
+- **Email:** marioperezacosta2007@gmail.com
 
 <p align="center">
   ✨ <i>"The best way to predict the future is to invent it."</i> ✨
