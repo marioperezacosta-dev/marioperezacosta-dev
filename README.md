@@ -24,34 +24,21 @@
 
 ## 🛠️ Tecnologías & Herramientas
 
+<p align="center">
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
+  <!-- Tarjeta de Racha de Commits -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUÍ&theme=tokyonight" alt="Racha de Commits" />
+</p>
+
+### 🛠️ Tecnologías que más utilizo en 1º DAM
+*Para asegurar el tiro mientras indexan mis repositorios, este es mi Core Stack actual:*
+
 <p align="left">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  
-  <!-- Bases de Datos -->
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/H2_Database-2C3E50?style=for-the-badge" alt="H2" />
-  
-  <!-- Frontend básico / Entornos -->
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
-</p>
-
----
-
-## 📊 Estadísticas de GitHub (¡En tiempo real!)
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_AQUÍ]&theme=tokyonight" alt="Racha de commits" />
+  <img src="https://img.shields.io/badge/Java_Core-100%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/SQL_&_Bases_Datos-Avanzado-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-Control_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
