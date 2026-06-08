@@ -16,7 +16,7 @@
 
 ¡Hola! Soy **Mario Pérez Acosta**. Actualmente curso 1º de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. No me conformo con aprobar; mi objetivo es dominar la arquitectura de software, escribir código limpio (Clean Code) y destacar en el ecosistema técnico antes de terminar mis estudios.
 
-- 🔭 **Proyecto Reciente Destacado:** He desarrollado un [Dashboard de Gestión Académica y Ponderación para DAM](https://github.com/[TU_USUARIO_AQUÍ]/[NOMBRE_REPOSITORIO_DASHBOARD]) usando **Spring Boot 3, JPA y Thymeleaf**.
+- 🔭 **Proyecto Reciente Destacado:** He desarrollado un [HotelManager](https://github.com/[marioperezacosta-dev]/[HotelManager]) usando **Spring Boot 3, JPA y Thymeleaf**.
 - 🧠 **Enfoque Actual:** Algoritmia, Patrones de Diseño, desarrollo Backend escalable y Bases de Datos relacionales.
 - 🎯 **Filosofía de Código:** *"Cualquier tonto puede escribir código que un ordenador entiende. Los buenos programadores escriben código que los humanos pueden entender."* (Martin Fowler).
 
