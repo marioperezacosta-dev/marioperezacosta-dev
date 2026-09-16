@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
   <h1 align="center">🚀 Mario Pérez Acosta</h1>
-  <p align="center"><b>Software Developer Student @ 1º DAM</b></p>
+  <p align="center"><b>Software Developer Student @ 2º DAM</b></p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
 </p>
 
