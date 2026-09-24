@@ -6,12 +6,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=25&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Futuro+Ingeniero+de+Software;Estudiante+Top+de+1%C2%BA+DAM;Backend+Developer+with+Java" alt="Typing SVG" />
-  </a>
-</p>
-
 ## 🚀 Sobre Mí
 
 - 🔭 **Proyecto Reciente Destacado:** He desarrollado un [HotelManager](https://github.com/marioperezacosta-dev/HotelManager) usando **Spring Boot 3, JPA y Thymeleaf**.
