@@ -28,29 +28,30 @@
   <img src="https://img.shields.io/badge/Java_Core-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Multithreading-4A90D9?style=for-the-badge&logo=java&logoColor=white" alt="Concurrencia" />
+  <img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Sockets_&_Networking-333333?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Sockets" />
+</p>
+
+#### 📱 Móvil & Multimedia
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
 </p>
 
 #### 🗄️ Bases de Datos & Control de Versiones
 <p align="left">
   <img src="https://img.shields.io/badge/SQL_&_Databases-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="JDBC" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
 </p>
 
----
-### 📚 Formación — 2º DAM (Desarrollo de Aplicaciones Multiplataforma)
-*Módulos que se cursan en el segundo año del ciclo:*
-
-| Módulo | Contenido principal |
-|---|---|
-| 🔗 **Acceso a Datos (AD)** | Ficheros, XML, JDBC, bases de datos relacionales y orientadas a objetos, ORM (Hibernate/JPA) |
-| 🖥️ **Desarrollo de Interfaces (DI)** | Formularios, informes, contenidos gráficos y multimedia, interfaces gráficas de usuario |
-| 🔄 **Programación de Servicios y Procesos (PSP)** | Concurrencia, hilos, procesos, comunicación en red, servicios y sockets |
-| 🏢 **Sistemas de Gestión Empresarial (SGE)** | ERP-CRM, gestión de recursos empresariales y relaciones con clientes |
-| 📱 **Programación Multimedia y Dispositivos Móviles (PMDM)** | Desarrollo de apps móviles, integración de contenido multimedia |
-| 💼 **Empresa e Iniciativa Emprendedora (EIE)** | Plan de empresa, emprendimiento, del proyecto de negocio a la realidad |
-| 🎓 **Proyecto DAM (PRY)** | Proyecto final integrador de todo lo aprendido en el ciclo |
-| 🏭 **Formación en Centros de Trabajo (FCT)** | Prácticas profesionales en empresa |
+#### 💼 Gestión & Negocio
+<p align="left">
+  <img src="https://img.shields.io/badge/ERP_&_CRM-2E86C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="ERP CRM" />
+  <img src="https://img.shields.io/badge/Agile_&_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+</p>
 
 ---
 
