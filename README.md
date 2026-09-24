@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
   <h1 align="center">🚀 Mario Pérez Acosta</h1>
-  <p align="center"><b>Software Developer Student @ 2º DAM</b></p>
+  <p align="center"><b>Software Developer</b></p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
 </p>
 
@@ -14,14 +14,12 @@
 
 ## 🚀 Sobre Mí
 
-¡Hola! Soy **Mario Pérez Acosta**. Actualmente curso 1º de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. No me conformo con aprobar; mi objetivo es dominar la arquitectura de software, escribir código limpio (Clean Code) y destacar en el ecosistema técnico antes de terminar mis estudios.
-
 - 🔭 **Proyecto Reciente Destacado:** He desarrollado un [HotelManager](https://github.com/marioperezacosta-dev/HotelManager) usando **Spring Boot 3, JPA y Thymeleaf**.
 - 🧠 **Enfoque Actual:** Algoritmia, Patrones de Diseño, desarrollo Backend escalable y Bases de Datos relacionales.
 - 🎯 **Filosofía de Código:** *"Cualquier tonto puede escribir código que un ordenador entiende. Los buenos programadores escriben código que los humanos pueden entender."* (Martin Fowler).
 
 ---
-### 🛠️ Tecnologías & Stack Técnico (1º DAM)
+### 🛠️ Tecnologías & Stack Técnico
 *Mi ecosistema de desarrollo estructurado por capas:*
 
 #### 🎨 Frontend & Motores de Vista
