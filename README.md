@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="linea decorativa" />
   <h1 align="center">🚀 Mario Pérez Acosta</h1>
@@ -13,7 +12,7 @@
 - 🎯 **Filosofía de Código:** *"Cualquier tonto puede escribir código que un ordenador entiende. Los buenos programadores escriben código que los humanos pueden entender."* (Martin Fowler).
 
 ---
-### 🛠️ Tecnologías & Stack Técnico
+### 🛠️ Tecnologías & Conocimientos
 *Mi ecosistema de desarrollo estructurado por capas:*
 
 #### 🎨 Frontend & Motores de Vista
@@ -37,6 +36,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
 </p>
+
+---
+### 📚 Formación — 2º DAM (Desarrollo de Aplicaciones Multiplataforma)
+*Módulos que se cursan en el segundo año del ciclo:*
+
+| Módulo | Contenido principal |
+|---|---|
+| 🔗 **Acceso a Datos (AD)** | Ficheros, XML, JDBC, bases de datos relacionales y orientadas a objetos, ORM (Hibernate/JPA) |
+| 🖥️ **Desarrollo de Interfaces (DI)** | Formularios, informes, contenidos gráficos y multimedia, interfaces gráficas de usuario |
+| 🔄 **Programación de Servicios y Procesos (PSP)** | Concurrencia, hilos, procesos, comunicación en red, servicios y sockets |
+| 🏢 **Sistemas de Gestión Empresarial (SGE)** | ERP-CRM, gestión de recursos empresariales y relaciones con clientes |
+| 📱 **Programación Multimedia y Dispositivos Móviles (PMDM)** | Desarrollo de apps móviles, integración de contenido multimedia |
+| 💼 **Empresa e Iniciativa Emprendedora (EIE)** | Plan de empresa, emprendimiento, del proyecto de negocio a la realidad |
+| 🎓 **Proyecto DAM (PRY)** | Proyecto final integrador de todo lo aprendido en el ciclo |
+| 🏭 **Formación en Centros de Trabajo (FCT)** | Prácticas profesionales en empresa |
+
 ---
 
 ## 🤝 Conectemos
