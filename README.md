@@ -32,4 +32,35 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/Multithreading-4A90D9?style=for-the-badge&logo=java&logoColor=white" alt="Concurrencia" />
-  <img src="https://img.shields.io/badge/REST_APIs_con_Spring-6DB33F?styl
+  <img src="https://img.shields.io/badge/REST_APIs_con_Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="REST APIs con Spring" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Sockets_&_Networking-333333?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Sockets" />
+</p>
+
+#### 📱 Móvil & Multimedia
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+</p>
+
+#### 🗄️ Bases de Datos & Control de Versiones
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_&_Databases-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+</p>
+
+#### 💼 Gestión & Negocio
+<p align="left">
+  <img src="https://img.shields.io/badge/ERP_&_CRM-2E86C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="ERP CRM" />
+  <img src="https://img.shields.io/badge/Agile_&_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+</p>
+
+---
+
+## 🤝 Conectemos
+- **LinkedIn:** https://www.linkedin.com/in/mario-perez-acosta-0271153a0/ <!-- Cambia esto por tu enlace real -->
+- **Email:** marioperezacosta2007@gmail.com
+
+  
